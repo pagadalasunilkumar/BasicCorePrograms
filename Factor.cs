@@ -38,5 +38,5 @@ namespace BasicCorePrograms
             {
                 Console.WriteLine(number);
             }
-        }       }
+        }       
 }
